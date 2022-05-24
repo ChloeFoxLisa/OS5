@@ -1,0 +1,16 @@
+C:\Users\x_sky\Desktop\OS5\obj\Debug\net5.0\OS5.csproj.AssemblyReference.cache
+C:\Users\x_sky\Desktop\OS5\obj\Debug\net5.0\OS5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x_sky\Desktop\OS5\obj\Debug\net5.0\OS5.AssemblyInfoInputs.cache
+C:\Users\x_sky\Desktop\OS5\obj\Debug\net5.0\OS5.AssemblyInfo.cs
+C:\Users\x_sky\Desktop\OS5\obj\Debug\net5.0\OS5.csproj.CoreCompileInputs.cache
+C:\Users\x_sky\Desktop\OS5\bin\Debug\net5.0\OS5.exe
+C:\Users\x_sky\Desktop\OS5\bin\Debug\net5.0\OS5.deps.json
+C:\Users\x_sky\Desktop\OS5\bin\Debug\net5.0\OS5.runtimeconfig.json
+C:\Users\x_sky\Desktop\OS5\bin\Debug\net5.0\OS5.runtimeconfig.dev.json
+C:\Users\x_sky\Desktop\OS5\bin\Debug\net5.0\OS5.dll
+C:\Users\x_sky\Desktop\OS5\bin\Debug\net5.0\ref\OS5.dll
+C:\Users\x_sky\Desktop\OS5\bin\Debug\net5.0\OS5.pdb
+C:\Users\x_sky\Desktop\OS5\obj\Debug\net5.0\OS5.dll
+C:\Users\x_sky\Desktop\OS5\obj\Debug\net5.0\ref\OS5.dll
+C:\Users\x_sky\Desktop\OS5\obj\Debug\net5.0\OS5.pdb
+C:\Users\x_sky\Desktop\OS5\obj\Debug\net5.0\OS5.genruntimeconfig.cache
